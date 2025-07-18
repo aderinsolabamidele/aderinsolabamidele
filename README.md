@@ -1,4 +1,4 @@
-# 👋 Hey, I'm Aderinsola Bamidele  
+# 👋 Hey, I'm DERIN
 Full-Stack Developer | Builder | Creative Technologist  
 
 ## 🧭 Current Focus  
