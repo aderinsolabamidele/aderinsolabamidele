@@ -1,16 +1,17 @@
-## Hi there 👋
+# 👋 Hey, I'm Aderinsola Bamidele  
+Full-Stack Developer | Builder | Creative Technologist  
 
-<!--
-**aderinsolabamidele/aderinsolabamidele** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🧭 Current Focus  
+- Building full-stack web apps with AI and automation in mind  
+- Exploring the intersection of tech, music, and creativity  
+- Creating useful tools for creators, users, and learners  
 
-Here are some ideas to get you started:
+## 🛠️ Tech & Tools  
+Python · JavaScript · HTML · CSS · React · FastAPI · SQL · Tailwind · GSAP · Framer Motion · Node.js · MongoDB · Firebase  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 💻 What I Do  
+I craft responsive, modern websites and full-stack apps from idea to deployment—clean UI, smooth animations, and solid backend logic.  
+
+## 🌍 Location  
+📍 Lagos, Nigeria  
+
