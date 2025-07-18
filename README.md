@@ -1,4 +1,4 @@
-# 👋 Hello i'm DERIN
+# 🤭Hello i'm DERIN
 
 Full-Stack Developer | Builder | Creative Technologist  
 
