@@ -1,6 +1,6 @@
 # 🤭Hello i'm DERIN
 
-Full-Stack Developer | Builder | Creative Technologist  
+Full-Stack Developer | Builder | Creative Technologist | Ethical hacker
 
 ## 🧭 Current Focus  
 - Building full-stack web apps with AI and automation in mind  
